@@ -17,12 +17,13 @@
 
 ## Usages
 
-<html>
-<head>
-    @livewireStyles
-</head>
-<body>
-    @livewireScripts
-</body>
-</html>
+@livewireStyles
+
+@livewireScripts
+
+
+If you are on Laravel 7 or higher, you can use the new tag syntax.
+<livewire:styles>
+
+<livewire:scripts>
 
