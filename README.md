@@ -27,9 +27,8 @@ If you are on Laravel 7 or higher, you can use the new tag syntax.
 
 <livewire:scripts>
 
-## Usages
+## Turbolinks
 
-Turbolinks
 1 Add the turbolinks package to your application: npm install --save turbolinks
 2 Require and start Turbolinks in your JavaScript bundle
 
